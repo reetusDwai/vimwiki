@@ -1,0 +1,7 @@
+= Oh My Posh setup =
+
+`eval "$(oh-my-posh init bash --config ~/.mytheme.omp.json)"`
+
+= Custom Commands = 
+
+`source ~/.custom_bash_commands.sh`

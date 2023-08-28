@@ -1,0 +1,4 @@
+= Terminal Setup =
+	* [[vimrc]] - full vimrc file
+	* [[bashrc]] - full bashrc file
+	* [[packages]] - stuff to download

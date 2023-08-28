@@ -1,0 +1,13 @@
+= Install oh-my-posh =
+
+`curl -s https://ohmyposh.dev/install.sh | bash -s`
+
+= Install font =
+
+`oh-my-posh font install`
+Select any `firacode` font
+
+= Custamization =
+
+ * [Custom Theme](~/.mytheme.omp.json)
+ * [[bashrc.wiki|Setup bashrc]] 
